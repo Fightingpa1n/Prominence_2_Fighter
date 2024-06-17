@@ -1,0 +1,12 @@
+{
+	"unlocked_by_default": true,
+	"exclusive_root": true,
+	"title": "Talent Tree",
+	"icon": {
+		"type": "item",
+		"data": {
+			"item": "aquamirae:dead_sea_scroll"
+		}
+	},
+	"background": "textures/block/deepslate_bricks.png"
+}

@@ -1,0 +1,20 @@
+{
+  "serverBrowserNotification": false,
+  "bisectPackID": "19073",
+  "modPackFilter": "Prominence II [RPG]",
+  "officialServers": [
+    {
+      "name": " ",
+      "ipAddress": "realms.prominence.gg:25555"
+    },
+    {
+      "name": " ",
+      "ipAddress": "prom2.moddedmc.net"
+    },
+    {
+      "name": " ",
+      "ipAddress": "pr2.pumpkraft.net"
+    }
+  ],
+  "blacklistedServers": []
+}

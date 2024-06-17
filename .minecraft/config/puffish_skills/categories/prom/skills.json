@@ -1,0 +1,968 @@
+{
+	"-3_5": {
+		"definition": "lethality",
+		"x": -128,
+		"y": 224,
+		"root": false
+	},
+	"-2_9": {
+		"definition": "melee_damage+12%",
+		"x": -64,
+		"y": 288,
+		"root": false
+	},
+	"-1_6": {
+		"definition": "lethality",
+		"x": -64,
+		"y": 224,
+		"root": false
+	},
+	"-1_11": {
+		"definition": "melee_damage+12%",
+		"x": -64,
+		"y": 384,
+		"root": false
+	},
+	"0_2": {
+		"definition": "path_rogue",
+		"x": 0,
+		"y": 64,
+		"root": true
+	},
+	"2_9": {
+		"definition": "ranged_damage+12%",
+		"x": 64,
+		"y": 288,
+		"root": false
+	},
+	"3_5": {
+		"definition": "ranged_damage+12%",
+		"x": 64,
+		"y": 224,
+		"root": false
+	},
+	"91qyefy72y6yu3cu": {
+		"definition": "path_archer",
+		"x": 64,
+		"y": 64,
+		"root": true
+	},
+	"u5mga56blacu4hff": {
+		"definition": "path_arcane",
+		"x": 0,
+		"y": -64,
+		"root": true
+	},
+	"b6z9kynnq2fqwzfw": {
+		"definition": "frost+12%",
+		"x": 64,
+		"y": -160,
+		"root": false
+	},
+	"ovp6eie1s7mjr0cd": {
+		"definition": "stamina+8%",
+		"x": -224,
+		"y": 160,
+		"root": false
+	},
+	"40ov5q20nkon9ew4": {
+		"definition": "path_protector",
+		"x": -64,
+		"y": 64,
+		"root": true
+	},
+	"mzidswrcjro4llav": {
+		"definition": "health+10%",
+		"x": -128,
+		"y": 32,
+		"root": false
+	},
+	"af8y5dq392hiw6dr": {
+		"definition": "health+10%",
+		"x": -128,
+		"y": 96,
+		"root": false
+	},
+	"10f1awhjy2wm2czm": {
+		"definition": "path_fire",
+		"x": -64,
+		"y": -64,
+		"root": true
+	},
+	"o7wjo00jb0ak4b30": {
+		"definition": "fire+12%",
+		"x": -128,
+		"y": -160,
+		"root": false
+	},
+	"gln06rjkmte4wo99": {
+		"definition": "attack_speed+6%",
+		"x": 128,
+		"y": 32,
+		"root": false
+	},
+	"t9dbbm8fbcyjhh39": {
+		"definition": "frost+12%",
+		"x": 128,
+		"y": -160,
+		"root": false
+	},
+	"9yid0da3ea9eou2v": {
+		"definition": "attack_speed+6%",
+		"x": 192,
+		"y": -96,
+		"root": false
+	},
+	"f916ae264jtd8fay": {
+		"definition": "health+10%",
+		"x": -384,
+		"y": 0,
+		"root": false
+	},
+	"691qbfijzbzjzsg1": {
+		"definition": "health+10%",
+		"x": -320,
+		"y": -160,
+		"root": false
+	},
+	"5ssexjqeb216d6xm": {
+		"definition": "fire+12%",
+		"x": -224,
+		"y": -224,
+		"root": false
+	},
+	"r5wzchnuwwafqkmi": {
+		"definition": "frost+12%",
+		"x": 192,
+		"y": -224,
+		"root": false
+	},
+	"jz1pm1sazuhio8qn": {
+		"definition": "melee_damage+12%",
+		"x": 320,
+		"y": -160,
+		"root": false
+	},
+	"tnnp4unt9ukx1un8": {
+		"definition": "attack_speed+6%",
+		"x": 320,
+		"y": -96,
+		"root": false
+	},
+	"82oer9vtu02u9opq": {
+		"definition": "health+10%",
+		"x": -128,
+		"y": -32,
+		"root": false
+	},
+	"32vn32dhihlvtya1": {
+		"definition": "stamina+8%",
+		"x": -128,
+		"y": 160,
+		"root": false
+	},
+	"7e97zl85o64bytxw": {
+		"definition": "melee_damage+12%",
+		"x": -192,
+		"y": 224,
+		"root": false
+	},
+	"x5mohx4wax17yf44": {
+		"definition": "arcane+12%",
+		"x": -128,
+		"y": -352,
+		"root": false
+	},
+	"wr39ivrcn0gsxfrn": {
+		"definition": "arcane+12%",
+		"x": -64,
+		"y": -352,
+		"root": false
+	},
+	"2gipd2lmnhx8kffu": {
+		"definition": "arcane+12%",
+		"x": -64,
+		"y": -288,
+		"root": false
+	},
+	"6r3rz4lff6o6mm6m": {
+		"definition": "lethality",
+		"x": -256,
+		"y": 288,
+		"root": false
+	},
+	"msez4eelgqr9ijjb": {
+		"definition": "melee_damage+12%",
+		"x": -256,
+		"y": 352,
+		"root": false
+	},
+	"ts1lzru5x94gd864": {
+		"definition": "stamina+8%",
+		"x": -320,
+		"y": 352,
+		"root": false
+	},
+	"ey5dsj6mc6n2yw0x": {
+		"definition": "movement_speed+6%",
+		"x": -320,
+		"y": 288,
+		"root": false
+	},
+	"jadxnobv21lhfx11": {
+		"definition": "lethality",
+		"x": -192,
+		"y": 416,
+		"root": false
+	},
+	"o5laa96ahmsfaqb5": {
+		"definition": "melee_damage+12%",
+		"x": -128,
+		"y": 416,
+		"root": false
+	},
+	"9lgv6pqno5j0321c": {
+		"definition": "stamina+8%",
+		"x": 128,
+		"y": 96,
+		"root": false
+	},
+	"x9lr151xvum2d146": {
+		"definition": "ranged_damage+12%",
+		"x": 64,
+		"y": 160,
+		"root": false
+	},
+	"horr41st9d3m26po": {
+		"definition": "health+10%",
+		"x": 128,
+		"y": 224,
+		"root": false
+	},
+	"tv4xkg11syvzchn0": {
+		"definition": "health+10%",
+		"x": 192,
+		"y": 160,
+		"root": false
+	},
+	"w4ama3kg163x6dkc": {
+		"definition": "arcane+12%",
+		"x": 64,
+		"y": -288,
+		"root": false
+	},
+	"8qn58h7cnnffh49l": {
+		"definition": "arcane+12%",
+		"x": 64,
+		"y": -352,
+		"root": false
+	},
+	"4u2jdzoaqdrwr4we": {
+		"definition": "arcane+12%",
+		"x": 128,
+		"y": -352,
+		"root": false
+	},
+	"77l9egcr8hb087h3": {
+		"definition": "health+10%",
+		"x": 256,
+		"y": 160,
+		"root": false
+	},
+	"j5c3vdao4nimwxtl": {
+		"definition": "health+10%",
+		"x": 352,
+		"y": 160,
+		"root": false
+	},
+	"6b2g6mi76m85hlb1": {
+		"definition": "health+10%",
+		"x": 192,
+		"y": 288,
+		"root": false
+	},
+	"qoorzgcuogc8jel5": {
+		"definition": "health+10%",
+		"x": 192,
+		"y": 352,
+		"root": false
+	},
+	"tktvdobiqpcjgwy9": {
+		"definition": "health+10%",
+		"x": 320,
+		"y": 352,
+		"root": false
+	},
+	"yhfp5fzq74j1kus2": {
+		"definition": "health+10%",
+		"x": 320,
+		"y": 288,
+		"root": false
+	},
+	"7hhqhtga4riju27u": {
+		"definition": "health+10%",
+		"x": 320,
+		"y": 224,
+		"root": false
+	},
+	"q0t72gul6iisdy68": {
+		"definition": "ranged_damage+12%",
+		"x": 128,
+		"y": 416,
+		"root": false
+	},
+	"oj3htz1raemc56b4": {
+		"definition": "ranged_damage+12%",
+		"x": 192,
+		"y": 416,
+		"root": false
+	},
+	"lmlvaqaom82eq4ee": {
+		"definition": "path_frost",
+		"x": 64,
+		"y": -64,
+		"root": true
+	},
+	"hv2hhpxjhu3wzyxb": {
+		"definition": "stamina+8%",
+		"x": 128,
+		"y": -32,
+		"root": false
+	},
+	"mup9n9yu2ibv09e1": {
+		"definition": "fire+12%",
+		"x": -128,
+		"y": -96,
+		"root": false
+	},
+	"nmtuhu13hpj7mywg": {
+		"definition": "fire+12%",
+		"x": -64,
+		"y": -224,
+		"root": false
+	},
+	"ywyo2pxspmam9iiq": {
+		"definition": "frost+12%",
+		"x": 64,
+		"y": -224,
+		"root": false
+	},
+	"iw7e43wlg6hulqxb": {
+		"definition": "fire+12%",
+		"x": -320,
+		"y": -288,
+		"root": false
+	},
+	"cy0atnih7yz0iurm": {
+		"definition": "fire+12%",
+		"x": -224,
+		"y": -352,
+		"root": false
+	},
+	"hg8rhewbe9kfzcm6": {
+		"definition": "frost+12%",
+		"x": 224,
+		"y": -352,
+		"root": false
+	},
+	"2ojlw6zer0lrex7q": {
+		"definition": "frost+12%",
+		"x": 192,
+		"y": -288,
+		"root": false
+	},
+	"mqfrll6uznczt47l": {
+		"definition": "omnivamp",
+		"x": 0,
+		"y": 320,
+		"root": false
+	},
+	"fqe954y78ic9qk4d": {
+		"definition": "melee_damage+12%",
+		"x": -64,
+		"y": 160,
+		"root": false
+	},
+	"u0mz63rrnwuirgs5": {
+		"definition": "ranged_damage+12%",
+		"x": 0,
+		"y": 160,
+		"root": false
+	},
+	"v3q8uaj4bxi3wzq7": {
+		"definition": "fire+12%",
+		"x": -64,
+		"y": -160,
+		"root": false
+	},
+	"p8a8ost12kvwqdjs": {
+		"definition": "movement_speed+6%",
+		"x": -352,
+		"y": 160,
+		"root": false
+	},
+	"acg81f1ogwnxvjxu": {
+		"definition": "ranged_damage+12%",
+		"x": 320,
+		"y": 416,
+		"root": false
+	},
+	"w0ccmg1z9vttpj7n": {
+		"definition": "melee_damage+12%",
+		"x": 256,
+		"y": -96,
+		"root": false
+	},
+	"otbi9fbs4lxq9fgc": {
+		"definition": "melee_damage+12%",
+		"x": 320,
+		"y": -352,
+		"root": false
+	},
+	"szc1sv3aznbca9me": {
+		"definition": "health+10%",
+		"x": 320,
+		"y": 32,
+		"root": false
+	},
+	"yjrkf0iyijd03y0i": {
+		"definition": "health+10%",
+		"x": 320,
+		"y": 96,
+		"root": false
+	},
+	"7cptxecd127opokt": {
+		"definition": "attack_speed+6%",
+		"x": 320,
+		"y": -32,
+		"root": false
+	},
+	"e3gzmmuzvho6ztkq": {
+		"definition": "stamina+8%",
+		"x": -320,
+		"y": 96,
+		"root": false
+	},
+	"dcmqbu7jzwgh2zz8": {
+		"definition": "toughness+20%",
+		"x": -320,
+		"y": 32,
+		"root": false
+	},
+	"w3485vhl0dywtoja": {
+		"definition": "toughness+20%",
+		"x": -320,
+		"y": -32,
+		"root": false
+	},
+	"836ldnfg689lnygk": {
+		"definition": "armor+20%",
+		"x": 224,
+		"y": 32,
+		"root": false
+	},
+	"xewmdtmjadlz7ykv": {
+		"definition": "jump+8%",
+		"x": 224,
+		"y": -32,
+		"root": false
+	},
+	"0ns2yz0mrjzsqv10": {
+		"definition": "frost+12%",
+		"x": 320,
+		"y": -416,
+		"root": false
+	},
+	"h5lbfifcrvuhrhls": {
+		"definition": "fire+12%",
+		"x": -320,
+		"y": -416,
+		"root": false
+	},
+	"1oec07x2m7s3i537": {
+		"definition": "fire+12%",
+		"x": -224,
+		"y": -448,
+		"root": false
+	},
+	"v6xqt6hqrdtsv9qd": {
+		"definition": "fire+12%",
+		"x": -384,
+		"y": -512,
+		"root": false
+	},
+	"3wfcp1x8dwu3ozxd": {
+		"definition": "healing+12%",
+		"x": -384,
+		"y": -416,
+		"root": false
+	},
+	"psdmtpw8hg9kysja": {
+		"definition": "healing+12%",
+		"x": -416,
+		"y": -288,
+		"root": false
+	},
+	"khlnp0b1u7owk9vr": {
+		"definition": "healing+12%",
+		"x": -384,
+		"y": -64,
+		"root": false
+	},
+	"h044cmvnw7mlvsq1": {
+		"definition": "healing+12%",
+		"x": -384,
+		"y": 64,
+		"root": false
+	},
+	"f3ah85dfuwv5m6ok": {
+		"definition": "healing+12%",
+		"x": -384,
+		"y": 288,
+		"root": false
+	},
+	"clgr5d88r2dief90": {
+		"definition": "healing+12%",
+		"x": -416,
+		"y": -160,
+		"root": false
+	},
+	"br1spiofdsu67c3c": {
+		"definition": "healing+12%",
+		"x": -384,
+		"y": 352,
+		"root": false
+	},
+	"x1ibqgknbmcdhb22": {
+		"definition": "healing+12%",
+		"x": -384,
+		"y": 480,
+		"root": false
+	},
+	"ks94xua9ebu3rlxz": {
+		"definition": "melee_damage+12%",
+		"x": -288,
+		"y": 480,
+		"root": false
+	},
+	"vem51izfixg0hzpw": {
+		"definition": "lethality",
+		"x": -128,
+		"y": 480,
+		"root": false
+	},
+	"cjw75onr2eeyfalv": {
+		"definition": "donoharm",
+		"x": -448,
+		"y": 0,
+		"root": false
+	},
+	"t21b3d1p8yb3av98": {
+		"definition": "stamina+8%",
+		"x": 0,
+		"y": 480,
+		"root": false
+	},
+	"4g6grmhjqfpo1qdx": {
+		"definition": "ranged_damage+12%",
+		"x": 128,
+		"y": 480,
+		"root": false
+	},
+	"6ivk6xx88yggflxj": {
+		"definition": "ranged_damage+12%",
+		"x": 256,
+		"y": 480,
+		"root": false
+	},
+	"kcxe79v1xew5tfa9": {
+		"definition": "luck+0.25",
+		"x": 384,
+		"y": 480,
+		"root": false
+	},
+	"z2yvrpoayo8e6dj3": {
+		"definition": "luck+0.25",
+		"x": 384,
+		"y": 352,
+		"root": false
+	},
+	"trpiri6eaa9ldn8u": {
+		"definition": "luck+0.25",
+		"x": 384,
+		"y": 64,
+		"root": false
+	},
+	"ntjj9212w8bqukx6": {
+		"definition": "luck+0.25",
+		"x": 384,
+		"y": -64,
+		"root": false
+	},
+	"v38h7odroaedvrxe": {
+		"definition": "luck+0.25",
+		"x": 416,
+		"y": -288,
+		"root": false
+	},
+	"2behwk4tzqizpm04": {
+		"definition": "luck+0.25",
+		"x": 384,
+		"y": -416,
+		"root": false
+	},
+	"n9u7evtg0jo7f0t5": {
+		"definition": "frost+12%",
+		"x": 384,
+		"y": -512,
+		"root": false
+	},
+	"0r0ikwly1pf0abba": {
+		"definition": "frost+12%",
+		"x": 224,
+		"y": -448,
+		"root": false
+	},
+	"jbrwwxmf0h7jew4n": {
+		"definition": "arcane+12%",
+		"x": -64,
+		"y": -416,
+		"root": false
+	},
+	"uds25wus83ixosip": {
+		"definition": "arcane+12%",
+		"x": 64,
+		"y": -416,
+		"root": false
+	},
+	"ci6bcywddzivze3g": {
+		"definition": "arcane+12%",
+		"x": 0,
+		"y": -480,
+		"root": false
+	},
+	"s5emu70o673fqvoo": {
+		"definition": "ranged_damage+12%",
+		"x": 64,
+		"y": 448,
+		"root": false
+	},
+	"jigorib2rqmjhsrs": {
+		"definition": "stalwart",
+		"x": 0,
+		"y": 544,
+		"root": false
+	},
+	"32ig4j2l7wfhsxtl": {
+		"definition": "grace",
+		"x": 256,
+		"y": 544,
+		"root": false
+	},
+	"ehkf897lb05zib0p": {
+		"definition": "luck+0.25",
+		"x": 384,
+		"y": 0,
+		"root": false
+	},
+	"2n6tco9movepwrkt": {
+		"definition": "iceking",
+		"x": 384,
+		"y": -576,
+		"root": false
+	},
+	"vbl8eja0ec41l4rc": {
+		"definition": "eldritch",
+		"x": 0,
+		"y": -384,
+		"root": false
+	},
+	"uvwheryj0p70kwe3": {
+		"definition": "hothead",
+		"x": -384,
+		"y": -576,
+		"root": false
+	},
+	"ozzqascbac268hqn": {
+		"definition": "melee_damage+12%",
+		"x": -64,
+		"y": 448,
+		"root": false
+	},
+	"lc37d1ih4enz204r": {
+		"definition": "ranged_damage+12%",
+		"x": 0,
+		"y": 224,
+		"root": false
+	},
+	"zuuv4zpb2qur5w4p": {
+		"definition": "ranged_damage+3%",
+		"x": -320,
+		"y": 224,
+		"root": false
+	},
+	"9gfrjxqi17ji3dq5": {
+		"definition": "ranged_damage+3%",
+		"x": -320,
+		"y": 416,
+		"root": false
+	},
+	"5wwpnu4802rzpedq": {
+		"definition": "ranged_damage+3%",
+		"x": -256,
+		"y": 224,
+		"root": false
+	},
+	"415wefsku7fd21q3": {
+		"definition": "attack_speed+6%",
+		"x": 256,
+		"y": 288,
+		"root": false
+	},
+	"539qj9bvnyq65sqv": {
+		"definition": "attack_speed+6%",
+		"x": 192,
+		"y": 224,
+		"root": false
+	},
+	"ocyli59t1y44j533": {
+		"definition": "attack_speed+6%",
+		"x": 224,
+		"y": 96,
+		"root": false
+	},
+	"yc2foxj42j0ujkjc": {
+		"definition": "attack_speed+6%",
+		"x": -128,
+		"y": 288,
+		"root": false
+	},
+	"x1te14uqoc24pv3s": {
+		"definition": "attack_speed+6%",
+		"x": -192,
+		"y": 288,
+		"root": false
+	},
+	"defkl4p325ij48pm": {
+		"definition": "attack_speed+6%",
+		"x": -192,
+		"y": 352,
+		"root": false
+	},
+	"r50nfl6kn6ttbmab": {
+		"definition": "movement_speed+6%",
+		"x": 128,
+		"y": 288,
+		"root": false
+	},
+	"rl1oendxdy589epp": {
+		"definition": "movement_speed+6%",
+		"x": 128,
+		"y": 352,
+		"root": false
+	},
+	"45po0tu3aierc6iz": {
+		"definition": "toughness+20%",
+		"x": -320,
+		"y": -96,
+		"root": false
+	},
+	"8j6c24iaakmjm3gn": {
+		"definition": "armor+20%",
+		"x": -224,
+		"y": 96,
+		"root": false
+	},
+	"sili3ufjw5ejc0fl": {
+		"definition": "armor+20%",
+		"x": -224,
+		"y": 32,
+		"root": false
+	},
+	"zpgk9en1nq5m7baw": {
+		"definition": "armor+20%",
+		"x": -224,
+		"y": -32,
+		"root": false
+	},
+	"145abvbj51ioz5lj": {
+		"definition": "ranged_damage+12%",
+		"x": 64,
+		"y": 384,
+		"root": false
+	},
+	"4shp1s2q6kvl5ms3": {
+		"definition": "arcane+12%",
+		"x": -320,
+		"y": -224,
+		"root": false
+	},
+	"259vn4mnzomc7z09": {
+		"definition": "health+10%",
+		"x": -224,
+		"y": -96,
+		"root": false
+	},
+	"mdsd8cd5dy3mgnto": {
+		"definition": "arcane+12%",
+		"x": 192,
+		"y": -160,
+		"root": false
+	},
+	"a2cx3xxi8k74bb3z": {
+		"definition": "arcane+12%",
+		"x": 320,
+		"y": -224,
+		"root": false
+	},
+	"2f4u32nakbnqlkir": {
+		"definition": "arcane+12%",
+		"x": 256,
+		"y": -160,
+		"root": false
+	},
+	"ccossz8ipbkcrpz8": {
+		"definition": "frost+12%",
+		"x": -128,
+		"y": -224,
+		"root": false
+	},
+	"npi3z3rlk0ihg4g5": {
+		"definition": "frost+12%",
+		"x": -224,
+		"y": -288,
+		"root": false
+	},
+	"j0g5hausu5ify322": {
+		"definition": "frost+12%",
+		"x": -128,
+		"y": -288,
+		"root": false
+	},
+	"j746xxt7wrxqlcc1": {
+		"definition": "fire+12%",
+		"x": 128,
+		"y": -288,
+		"root": false
+	},
+	"6n11h93tb0qj84wt": {
+		"definition": "fire+12%",
+		"x": 128,
+		"y": -224,
+		"root": false
+	},
+	"v7hqganjx5ftv14x": {
+		"definition": "luck+4",
+		"x": 448,
+		"y": 0,
+		"root": false
+	},
+	"5chiiktg5xnhqmp6": {
+		"definition": "fire+12%",
+		"x": -224,
+		"y": -160,
+		"root": false
+	},
+	"bdqexitrgpz9phaw": {
+		"definition": "larry",
+		"x": -288,
+		"y": 544,
+		"root": false
+	},
+	"bgzspwjyyc570g6i": {
+		"definition": "Elementalist",
+		"x": 0,
+		"y": -544,
+		"root": false
+	},
+	"2zhldj25v530oyxy": {
+		"definition": "attack_speed+6%",
+		"x": -256,
+		"y": 416,
+		"root": false
+	},
+	"2wa3c1a7ugq98c3d": {
+		"definition": "attack_speed+6%",
+		"x": 128,
+		"y": -96,
+		"root": false
+	},
+	"mb8kp51xb6oehwcq": {
+		"definition": "attack_speed+6%",
+		"x": -128,
+		"y": 352,
+		"root": false
+	},
+	"8yi8ekmagz3mf2n1": {
+		"definition": "lethality",
+		"x": 256,
+		"y": 352,
+		"root": false
+	},
+	"k0qxfod22u57faji": {
+		"definition": "movement_speed+6%",
+		"x": 128,
+		"y": 160,
+		"root": false
+	},
+	"dxr16jxelyi3scc5": {
+		"definition": "frost+12%",
+		"x": 320,
+		"y": -288,
+		"root": false
+	},
+	"8n6s7tt1fm43c8nw": {
+		"definition": "movement_speed+6%",
+		"x": 384,
+		"y": 288,
+		"root": false
+	},
+	"0joa3usn72db40up": {
+		"definition": "healing+12%",
+		"x": -192,
+		"y": 480,
+		"root": false
+	},
+	"br6110xk41ryjfmv": {
+		"definition": "jump+8%",
+		"x": 416,
+		"y": -160,
+		"root": false
+	},
+	"88ca3qt2inbwgfpv": {
+		"definition": "healing+12%",
+		"x": -416,
+		"y": 160,
+		"root": false
+	},
+	"8zoqdj75805ppv6s": {
+		"definition": "jump+8%",
+		"x": 416,
+		"y": 160,
+		"root": false
+	},
+	"e68ci05ulk5roiub": {
+		"definition": "ranged_damage+12%",
+		"x": 256,
+		"y": 224,
+		"root": false
+	},
+	"a17r8zm9hijhkrf1": {
+		"definition": "magicpen",
+		"x": 0,
+		"y": -224,
+		"root": false
+	},
+	"ipydfq1zaimo9sd5": {
+		"definition": "omnivamp",
+		"x": 0,
+		"y": -320,
+		"root": false
+	},
+	"rmvmj2svlay4ndvo": {
+		"definition": "magicpen",
+		"x": 0,
+		"y": -160,
+		"root": false
+	}
+}
